@@ -23,7 +23,7 @@ $ npm i craft-ai-kit-energy
 
 #### Initialize an instance of the kit ####
 
-> All the functions exposed by the kit return native [**Promises**](http://www.datchley.name/es6-promises/).
+> All the functions exposed by the kit return native [**Promises**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise).
 
 ```js
 const EnergyKit = require('craft-ai-kit-energy');
